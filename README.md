@@ -23,9 +23,9 @@ increase in user acquisition 6 weeks.
 
 [Serie A 23/24 data analysis](https://github.com/Kwasi-Dankwa/serie-a-analytics) 
 
-* Used SQL  to Process and Analyze large sets of data to explore Napolis season.
-* Used Tableau to visualize the defensive and Attacking problems of the team
-* Cleaned Data in Excel to ensure certan rows adhered to naming conventions
+* Analyzed Napoli’s performance using SQL, Tableau, and Excel, identifying key weaknesses in defense and scoring efficiency.
+* Built data-driven scouting insights, recommending potential transfer targets based on expected goals, clearance rates, and shot conversion metrics.
+* Highlighted underperformance in goal-scoring, revealing Napoli scored below their expected goals (xG), emphasizing the need for attacking reinforcements.
 
 [Family Dwellings Linear Regression](https://github.com/Kwasi-Dankwa/one-familydwellings-prediction)
 
